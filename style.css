@@ -1,0 +1,40 @@
+/* Custom Font */
+body {
+    font-family: 'Arial', sans-serif; 
+    font-size: 16px; 
+    line-height: 1.6; 
+}
+
+/* Custom Color Scheme */
+body {
+    background-color: #f4f4f9; 
+    color: #333; 
+}
+
+a {
+    color: #ff0048; 
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #0056b3; 
+}
+
+/* Custom Margins and Padding */
+.container {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 20px; 
+}
+
+header {
+    padding: 30px 0; 
+}
+
+footer {
+    margin-top: 40px; 
+    padding: 20px; 
+    background-color: #333; 
+    color: #fff; 
+    text-align: center; 
+}
